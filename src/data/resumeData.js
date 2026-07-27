@@ -15,7 +15,7 @@ export const profile = {
   phoneRaw: '+918882098915',
   email: 'sde.ramanand@gmail.com',
   resumeUrl:
-    'https://drive.google.com/uc?export=download&id=1MgltyZnst5tz-bvxe6lt2RCq-otKsmXW',
+    'https://drive.google.com/file/d/1EGZQGHzS9TJfvOcO5ewZ5KQkOyML-V5C/view?usp=sharing',
   social: {
     github: 'https://github.com/ramanand7',
     linkedin: 'https://www.linkedin.com/in/ramanand-sharma-b2a720194/',
